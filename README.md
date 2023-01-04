@@ -46,7 +46,7 @@
 Here are some ideas to get you started:
 
 https://www.sitepoint.com/github-profile-readme/
-
+https://github.com/anuraghazra/github-readme-stats
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
