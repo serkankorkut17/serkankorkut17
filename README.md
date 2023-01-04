@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 
 https://www.sitepoint.com/github-profile-readme/
 https://github.com/anuraghazra/github-readme-stats
+https://sarah-hart-landolt.medium.com/6-easy-steps-to-create-a-beautiful-github-profile-readme-edc7840b2c7
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
