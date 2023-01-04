@@ -5,7 +5,7 @@
 </div>
 
 <div align="center" id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://tr.linkedin.com/in/serkankorkut17">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
@@ -16,9 +16,9 @@
   </a>
 </div>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serkankorkut17&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serkankorkut17&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <!--
 **serkankorkut17/serkankorkut17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
