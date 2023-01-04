@@ -45,6 +45,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serkankorkut17)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 
+https://www.sitepoint.com/github-profile-readme/
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
