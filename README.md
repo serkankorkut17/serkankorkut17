@@ -1,4 +1,6 @@
-<p align="left"> <img align="right" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=serkankorkut17&label=My First Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge"/> </p>
+<p align="left"> <img align="right" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=serkankorkut17&label=Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge"/> </p>
+
+https://shields-io-visitor-counter.herokuapp.com/badge?page=serkankorkut17&label=My First Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
