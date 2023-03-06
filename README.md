@@ -16,6 +16,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MSSQL" alt="MSSQL" width="40" height="40"/>&nbsp;
 
+<div align="center">
 ### :fire: My Stats :
 
 <p> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=serkankorkut17&theme=dark&background=000000"/> </p>
@@ -23,7 +24,7 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkankorkut17&layout=compact&theme=vision-friendly-dark"/> </p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=serkankorkut17&count_private=true&show_icons=true&theme=vision-friendly-dark"/> </p>
-
+</div>
 
 <!--
 **serkankorkut17/serkankorkut17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
