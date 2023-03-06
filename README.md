@@ -18,11 +18,11 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=serkankorkut17&theme=dark&background=000000)](https://git.io/streak-stats)
+<p align="left"> <img align="center" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=serkankorkut17&theme=dark&background=000000)](https://git.io/streak-stats)"/> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serkankorkut17&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serkankorkut17&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)"/> </p>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=serkankorkut17&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <img align="center" src="[![GitHub stats](https://github-readme-stats.vercel.app/api?username=serkankorkut17&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)"/> </p>
 
 
 <!--
