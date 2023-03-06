@@ -17,7 +17,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MSSQL" alt="MSSQL" width="40" height="40"/>&nbsp;
 
 <div align="center">
-### :fire: My Stats :
+  <h3 align="center">:fire: My Stats :</h3>
 
 <p> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=serkankorkut17&theme=dark&background=000000"/> </p>
 
