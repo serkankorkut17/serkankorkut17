@@ -1,4 +1,7 @@
-<p align="left"><h1>Hi, I'm Serkan</h1> <img align="right" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=serkankorkut17&label=Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge"/> </p>
+<div align="left">
+  <h1 align="left">Hi, I'm Serkan</h1> 
+  <img align="right" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=serkankorkut17&label=Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge"/>
+</div>
 
 <hr>
 
@@ -65,4 +68,7 @@ https://github.com/devicons/devicon/tree/master/icons
 <p align="left"> <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serkankorkut17&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)"/> </p>
 
 <p align="left"> <img align="center" src="[![GitHub stats](https://github-readme-stats.vercel.app/api?username=serkankorkut17&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)"/> </p>
+
+
+<p align="left"><h1>Hi, I'm Serkan</h1> <img align="right" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=serkankorkut17&label=Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge"/> </p>
 -->
