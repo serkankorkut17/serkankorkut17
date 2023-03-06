@@ -18,11 +18,11 @@
 
 ### :fire: My Stats :
 
-<p align="left"> <img align="center" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=serkankorkut17&theme=dark&background=000000)](https://git.io/streak-stats)"/> </p>
+<p align="left"> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=serkankorkut17&theme=dark&background=000000"/> </p>
 
-<p align="left"> <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serkankorkut17&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)"/> </p>
+<p align="left"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkankorkut17&layout=compact&theme=vision-friendly-dark"/> </p>
 
-<p align="left"> <img align="center" src="[![GitHub stats](https://github-readme-stats.vercel.app/api?username=serkankorkut17&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)"/> </p>
+<p align="left"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=serkankorkut17&count_private=true&show_icons=true&theme=vision-friendly-dark"/> </p>
 
 
 <!--
@@ -55,4 +55,11 @@ https://github.com/devicons/devicon/tree/master/icons
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+
+<p align="left"> <img align="center" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=serkankorkut17&theme=dark&background=000000)](https://git.io/streak-stats)"/> </p>
+
+<p align="left"> <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serkankorkut17&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)"/> </p>
+
+<p align="left"> <img align="center" src="[![GitHub stats](https://github-readme-stats.vercel.app/api?username=serkankorkut17&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)"/> </p>
 -->
