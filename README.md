@@ -1,9 +1,7 @@
 <div>
-  <h2 align="left">Hi, I'm Serkan</h2> 
-  <img align="right" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=serkankorkut17&label=Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge"/>
+  <p align="left"><img align="right" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=serkankorkut17&label=Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge"/> </p>
+  <h1>Hi, I'm Serkan</h1> 
 </div>
-
-<hr>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400"/>
