@@ -1,5 +1,5 @@
 <div>
-  <p align="left"><img align="right" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=serkankorkut17&label=Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge"/> </p>
+  <p align="left"><img align="right" src="https://komarev.com/ghpvc/?username=serkankorkut17&label=Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge"/> </p>
   <h1>Hi, I'm Serkan</h1> 
 </div>
 
