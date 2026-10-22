@@ -32,12 +32,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=serkankorkut17&amp;count_private=true&amp;show_icons=true&amp;bg_color=000000&amp;title_color=EA580C&amp;icon_color=EA580C&amp;text_color=E5E5E5&amp;ring_color=EA580C&amp;hide_border=true&amp;border_radius=12" alt="Serkan Korkut's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkankorkut17&amp;layout=compact&amp;bg_color=000000&amp;title_color=EA580C&amp;text_color=E5E5E5&amp;hide_border=true&amp;border_radius=12" alt="Serkan Korkut's top languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=serkankorkut17&amp;background=000000&amp;border=EA580C&amp;stroke=3F3F46&amp;ring=EA580C&amp;fire=EA580C&amp;currStreakNum=FFFFFF&amp;sideNums=EA580C&amp;currStreakLabel=EA580C&amp;sideLabels=E5E5E5&amp;dates=A3A3A3&amp;border_radius=12&amp;timezone=Europe%2FIstanbul" alt="Serkan Korkut's GitHub contribution streak" width="495" />
+  <img src="./assets/terminal.svg" alt="Serkan Korkut's GitHub stats, top languages and contribution graph" width="100%" />
 </p>
 
 <p align="center"><sub>Backend first, one commit at a time.</sub></p>
