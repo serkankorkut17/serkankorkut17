@@ -1,7 +1,8 @@
 <h1 align="center">Hey, I'm Serkan Korkut</h1>
 
 <p align="center">
-  <b>Software Engineer · Backend Engineer</b>
+  <b>Software Engineer · Backend Engineer at Mapa Global</b><br />
+  İstanbul, Türkiye
 </p>
 
 <p align="center">
@@ -14,6 +15,13 @@
 </p>
 
 ---
+
+### About me
+
+- Working as a **Software Engineer / Backend Engineer** at **Mapa Global**.
+- I mostly work on the **backend**: designing APIs, services and database integrations.
+- On the frontend side I'm comfortable with **React** and **Next.js**.
+- Previously spent time with **C**, **C++** and **Python**.
 
 ### Tech stack
 
