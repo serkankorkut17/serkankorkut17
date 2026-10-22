@@ -1,75 +1,68 @@
-<div>
-  <p align="left"><img align="right" src="https://komarev.com/ghpvc/?username=serkankorkut17&label=VIEWS&color=orange&style=for-the-badge"/> </p>
-  <h1>Hi, I'm Serkan</h1> 
-</div>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400"/>
-</div>
 <div align="center">
 
-  <hr>
+# Hi, I'm Serkan 👋
 
-  <h3 align="center">:fire: My Stats :</h3>
+**Software Engineer · Backend Engineer**
 
-<p> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=serkankorkut17&theme=dark&background=000000"/> </p>
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkankorkut17&layout=compact&theme=vision-friendly-dark"/> </p>
+Building APIs and services with **Spring Boot**, **.NET** and **Node.js** — currently learning **Go**.
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=serkankorkut17&count_private=true&show_icons=true&theme=vision-friendly-dark"/> </p>
+[![Website](https://img.shields.io/badge/serkankorkut.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://serkankorkut.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serkankorkut17/)
+![Profile views](https://komarev.com/ghpvc/?username=serkankorkut17&label=Profile%20views&color=0e75b6&style=for-the-badge)
+
 </div>
 
-<!--
-**serkankorkut17/serkankorkut17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serkankorkut17)](https://github.com/anuraghazra/github-readme-stats)
-Here are some ideas to get you started:
+---
 
-https://www.sitepoint.com/github-profile-readme/
-https://github.com/anuraghazra/github-readme-stats
-https://sarah-hart-landolt.medium.com/6-easy-steps-to-create-a-beautiful-github-profile-readme-edc7840b2c7
-https://github.com/devicons/devicon/tree/master/icons
+### 🧑‍💻 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚙️ I design and build **backend systems**: REST APIs, data pipelines and service integrations
+- 🎨 Comfortable on the frontend too with **React** and **Next.js**
+- 🐹 Currently learning **Go** — building terminal apps now, backend services next
+- 🕹️ Past adventures in **C**, **C++** (Vulkan, graphics) and **Python**
 
-TOOLS
-<h3 align="center">:hammer_and_wrench: Languages and Tools :</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MSSQL" alt="MSSQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
- ----------------------
+### 🛠️ Tech stack
 
-<div align="center" id="badges">
-  <a href="https://tr.linkedin.com/in/serkankorkut17">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+**Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,express,go&perline=10" alt="Backend" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&perline=10" alt="Frontend" />
+</p>
+
+**Data & tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,git,linux&perline=10" alt="Data and tools" />
+</p>
+
+**Also worked with**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,py&perline=10" alt="Also worked with" />
+</p>
+
+### 🚀 Featured projects
+
+| Project | Stack | Description |
+| --- | --- | --- |
+| [dynamic-multi-db-query-api](https://github.com/serkankorkut17/dynamic-multi-db-query-api) | .NET | Parses a custom query DSL into dialect-specific SQL and runs it on Postgres, MySQL, MSSQL, Oracle or MongoDB |
+| [springboot-api](https://github.com/serkankorkut17/springboot-api) | Spring Boot | REST API built with Spring Boot |
+| [real-estate-fullstack](https://github.com/serkankorkut17/real-estate-fullstack) | .NET + React | Full-stack real estate application |
+| [serkankorkut.dev](https://github.com/serkankorkut17/serkankorkut.dev) | Next.js | My personal website |
+
+### 📊 GitHub stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=serkankorkut17&count_private=true&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkankorkut17&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=serkankorkut17&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+
 </div>
-
-
-<p align="left"> <img align="center" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=serkankorkut17&theme=dark&background=000000)](https://git.io/streak-stats)"/> </p>
-
-<p align="left"> <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serkankorkut17&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)"/> </p>
-
-<p align="left"> <img align="center" src="[![GitHub stats](https://github-readme-stats.vercel.app/api?username=serkankorkut17&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)"/> </p>
-
-
-<p align="left"><h1>Hi, I'm Serkan</h1> <img align="right" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=serkankorkut17&label=Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge"/> </p>
--->
