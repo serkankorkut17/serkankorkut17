@@ -20,8 +20,8 @@
 
 - Working as a **Software Engineer / Backend Engineer** at **Mapa Global**.
 - I mostly work on the **backend**: designing APIs, services and database integrations.
+- Building services with **Spring Boot** and **.NET**, working with **SQL Server**, **Oracle** and **Docker**.
 - On the frontend side I'm comfortable with **React** and **Next.js**.
-- Previously spent time with **C**, **C++** and **Python**.
 
 ### Tech stack
 
