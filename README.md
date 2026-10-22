@@ -1,12 +1,11 @@
 <h1 align="center">Hey, I'm Serkan Korkut</h1>
 
 <p align="center">
-  <b>Software Engineer · Backend Engineer</b><br />
-  İstanbul, Türkiye
+  <b>Software Engineer · Backend Engineer</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=19&amp;duration=2800&amp;pause=1200&amp;color=39D353&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=45&amp;lines=Building+APIs+and+backend+services.;Spring+Boot+%7C+.NET+%7C+Node.js;Currently+learning+Go." alt="Building APIs and backend services. Spring Boot, .NET and Node.js. Currently learning Go." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=19&amp;duration=2800&amp;pause=1200&amp;color=39D353&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=45&amp;lines=Building+APIs+and+backend+services.;Spring+Boot+%7C+.NET+%7C+Node.js" alt="Building APIs and backend services. Spring Boot, .NET and Node.js." />
 </p>
 
 <p align="center">
@@ -15,13 +14,6 @@
 </p>
 
 ---
-
-### About me
-
-- I mostly work on the **backend**: designing APIs, services and database integrations.
-- On the frontend side I'm comfortable with **React** and **Next.js**.
-- Learning **Go** right now. Building terminal apps first, backend services next.
-- Previously spent time with **C**, **C++** and **Python**.
 
 ### Tech stack
 
