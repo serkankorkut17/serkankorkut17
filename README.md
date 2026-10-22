@@ -32,6 +32,10 @@
 ---
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=serkankorkut17&amp;background=000000&amp;border=EA580C&amp;stroke=3F3F46&amp;ring=EA580C&amp;fire=EA580C&amp;currStreakNum=FFFFFF&amp;sideNums=EA580C&amp;currStreakLabel=EA580C&amp;sideLabels=E5E5E5&amp;dates=A3A3A3&amp;border_radius=12&amp;timezone=Europe%2FIstanbul" alt="Serkan Korkut's GitHub contribution streak" width="495" />
+</p>
+
+<p align="center">
   <img src="./assets/terminal.svg" alt="Serkan Korkut's GitHub stats, top languages and contribution graph" width="100%" />
 </p>
 

@@ -31,6 +31,7 @@ FONT = "'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monosp
 QUERY = """
 query($login: String!, $privacy: RepositoryPrivacy) {
   user(login: $login) {
+    createdAt
     repositories(ownerAffiliations: OWNER, isFork: false, privacy: $privacy, first: 100) {
       totalCount
       nodes { languages(first: 10, orderBy: {field: SIZE, direction: DESC}) { edges { size node { name color } } } }
@@ -61,36 +62,39 @@ def fetch():
     return body["data"]["user"]
 
 
-def current_streak(days):
-    today = dt.date.today().isoformat()
-    streak = 0
-    for d in reversed(days):
-        if d["contributionCount"] > 0:
-            streak += 1
-        elif d["date"] != today:  # bugün henüz commit yoksa seri bozulmaz
-            break
-    return streak
-
-
-def best_streak(days):
-    best = run = 0
-    for d in days:
-        run = run + 1 if d["contributionCount"] > 0 else 0
-        best = max(best, run)
-    return best
-
-
 def plural(n, word):
     return f"{n} {word}" + ("" if n == 1 else "s")
 
 
+def uptime(created_at):
+    start = dt.date.fromisoformat(created_at[:10])
+    today = dt.date.today()
+    months = (today.year - start.year) * 12 + today.month - start.month - (today.day < start.day)
+    return f"up {plural(months // 12, 'year')}, {plural(months % 12, 'month')} · joined {start:%b %Y}"
+
+
+def most_active_weekday(days):
+    totals = {}
+    for d in days:
+        wd = dt.date.fromisoformat(d["date"]).strftime("%A")
+        totals[wd] = totals.get(wd, 0) + d["contributionCount"]
+    return max(totals, key=totals.get)
+
+
+def busiest_day(days):
+    d = max(days, key=lambda d: d["contributionCount"])
+    return f'{d["contributionCount"]} · {dt.date.fromisoformat(d["date"]):%d %b}'
+
+
 def top_languages(repos, n=5):
-    sizes = {}
+    sizes, colors = {}, {}
     for repo in repos["nodes"]:
         for edge in repo["languages"]["edges"]:
-            sizes[edge["node"]["name"]] = sizes.get(edge["node"]["name"], 0) + edge["size"]
+            name = edge["node"]["name"]
+            sizes[name] = sizes.get(name, 0) + edge["size"]
+            colors[name] = edge["node"]["color"] or MUTED
     total = sum(sizes.values()) or 1
-    return [(name, size / total) for name, size in sorted(sizes.items(), key=lambda x: -x[1])[:n]]
+    return [(name, size / total, colors[name]) for name, size in sorted(sizes.items(), key=lambda x: -x[1])[:n]]
 
 
 def text(x, y, s, fill=TEXT, weight=400, anchor="start", size=14):
@@ -107,7 +111,6 @@ def render(user):
     cc = user["contributionsCollection"]
     cal = cc["contributionCalendar"]
     days = [d for w in cal["weeks"] for d in w["contributionDays"]]
-    streak = current_streak(days)
     langs = top_languages(user["repositories"])
 
     W, PAD = 840, 28
@@ -117,6 +120,8 @@ def render(user):
     y += 26
     parts.append(f'<text x="{PAD}" y="{y}" font-size="14"><tspan fill="{TEXT}" font-weight="700">{escape(NAME)}</tspan>'
                  f'<tspan fill="{MUTED}">  ·  {escape(ROLE)}</tspan></text>')
+    y += 22
+    parts.append(text(PAD, y, uptime(user["createdAt"]), DIM))
 
     y += 44
     parts.append(prompt(PAD, y, "gh stats --last-year"))
@@ -125,8 +130,8 @@ def render(user):
         ("commits", f'{cc["totalCommitContributions"]:,}'),
         ("repositories", f'{user["repositories"]["totalCount"]:,}'),
         ("active days", f'{sum(d["contributionCount"] > 0 for d in days)}'),
-        ("current streak", plural(streak, "day")),
-        ("best streak", plural(best_streak(days), "day")),
+        ("most active", most_active_weekday(days)),
+        ("busiest day", busiest_day(days)),
     ]
     for i, (label, value) in enumerate(stats):
         col, row = i % 3, i // 3
@@ -138,9 +143,10 @@ def render(user):
     y += 30 + 26 * 2 + 22
     parts.append(prompt(PAD, y, "langs --top 5"))
     bar_x, bar_w = PAD + 130, 520
-    for i, (name, share) in enumerate(langs):
+    for i, (name, share, color) in enumerate(langs):
         yy = y + 30 + i * 24
-        parts.append(text(PAD, yy, name, TEXT))
+        parts.append(f'<circle cx="{PAD + 5}" cy="{yy - 5}" r="5" fill="{color}"/>')
+        parts.append(text(PAD + 18, yy, name, TEXT))
         parts.append(f'<rect x="{bar_x}" y="{yy - 11}" width="{bar_w}" height="12" rx="2" fill="{BORDER}"/>')
         parts.append(f'<rect x="{bar_x}" y="{yy - 11}" width="{max(bar_w * share, 3):.1f}" height="12" rx="2" '
                      f'fill="{ORANGE}"/>')
@@ -154,8 +160,9 @@ def render(user):
     for wi, week in enumerate(cal["weeks"]):
         for d in week["contributionDays"]:
             wd = dt.date.fromisoformat(d["date"]).isoweekday() % 7
+            today = ' stroke="#FFFFFF" stroke-width="1.5" class="today"' if d is days[-1] else ""
             parts.append(f'<rect x="{PAD + wi * (cell + gap)}" y="{gy + 16 + wd * (cell + gap)}" width="{cell}" '
-                         f'height="{cell}" rx="2" fill="{LEVELS[d["contributionLevel"]]}"/>')
+                         f'height="{cell}" rx="2" fill="{LEVELS[d["contributionLevel"]]}"{today}/>')
         first = dt.date.fromisoformat(week["contributionDays"][0]["date"])
         if first.month != month_seen and first.day <= 7 and wi < len(cal["weeks"]) - 2:
             parts.append(text(PAD + wi * (cell + gap), gy + 8, first.strftime("%b"), DIM, size=11))
