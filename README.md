@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=19&amp;duration=2800&amp;pause=1200&amp;color=39D353&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=45&amp;lines=Building+APIs+and+backend+services.;Spring+Boot+%7C+.NET+%7C+Node.js" alt="Building APIs and backend services. Spring Boot, .NET and Node.js." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=19&amp;duration=2800&amp;pause=1200&amp;color=EA580C&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=45&amp;lines=Building+APIs+and+backend+services.;Spring+Boot+%7C+.NET+%7C+Node.js" alt="Building APIs and backend services. Spring Boot, .NET and Node.js." />
 </p>
 
 <p align="center">
-  <a href="https://serkankorkut.dev"><img src="https://img.shields.io/badge/serkankorkut.dev-0D1117?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=39D353" alt="Personal website" /></a>
+  <a href="https://serkankorkut.dev"><img src="https://img.shields.io/badge/serkankorkut.dev-000000?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=EA580C" alt="Personal website" /></a>
   <a href="https://www.linkedin.com/in/serkankorkut17/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
 </p>
 
@@ -32,7 +32,12 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=serkankorkut17&amp;theme=github-dark-blue&amp;hide_border=true&amp;border_radius=12&amp;ring=39D353&amp;fire=39D353&amp;currStreakLabel=39D353&amp;timezone=Europe%2FIstanbul" alt="Serkan Korkut's GitHub contribution streak" width="495" />
+  <img src="https://github-readme-stats.vercel.app/api?username=serkankorkut17&amp;count_private=true&amp;show_icons=true&amp;bg_color=000000&amp;title_color=EA580C&amp;icon_color=EA580C&amp;text_color=E5E5E5&amp;ring_color=EA580C&amp;hide_border=true&amp;border_radius=12" alt="Serkan Korkut's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkankorkut17&amp;layout=compact&amp;bg_color=000000&amp;title_color=EA580C&amp;text_color=E5E5E5&amp;hide_border=true&amp;border_radius=12" alt="Serkan Korkut's top languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=serkankorkut17&amp;background=000000&amp;border=EA580C&amp;stroke=3F3F46&amp;ring=EA580C&amp;fire=EA580C&amp;currStreakNum=FFFFFF&amp;sideNums=EA580C&amp;currStreakLabel=EA580C&amp;sideLabels=E5E5E5&amp;dates=A3A3A3&amp;border_radius=12&amp;timezone=Europe%2FIstanbul" alt="Serkan Korkut's GitHub contribution streak" width="495" />
 </p>
 
 <p align="center"><sub>Backend first, one commit at a time.</sub></p>
